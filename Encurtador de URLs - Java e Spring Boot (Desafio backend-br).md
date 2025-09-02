@@ -41,11 +41,19 @@ o quarto requisito, diz o seguinte:
 O que ele está pedindo aq é que a url tenha um tempo de vida predeterminado, e quando esse tempo passar, a url deixe de existir no banco. 
 
 E no ultimo requisito,
-"Ao receber uma chamada para a URL encurtada `https://xxx.com/DXB6V`, você deve fazer o redirecionamento para a URL original salva no banco de dados. Caso a URL não seja encontrada no banco, retorne o código de status `HTTP 404 (Not Found)`."
 
-Por fim temos essa seção de soluções feitas por outros membros da comunidade. 
+Que é core, do desafio, e fala da rota de redirecionamento, então:
 
-Caso você tenha interesse de ver outras soluções em outras linguagens, ou até mesmo quiser ler o desafio com mais calma, vou estar deixando o link do desafio na descrição do vídeo.
+"Ao receber uma chamada para a URL encurtada `https://xxx.com/DXB6V`, você deve fazer o redirecionamento para a URL original salva no banco de dados. 
+
+"Caso a URL não seja encontrada no banco,"
+ou seja, caso ela não exista, ou caso o tempo de vida tenha expirado.
+
+" retorne o código de status `HTTP 404 (Not Found)`."
+
+Por fim temos essa seção de "soluções" onde vc pode encontrar soluções feitas por outros membros da comunidade. 
+
+Caso você tenha interesse de ver outras soluções em outras linguagens, ou até mesmo quiser ler o desafio com mais calma, vou deixar o link do desafio na descrição do vídeo.
 
 ### Iniciando o Projeto
 
