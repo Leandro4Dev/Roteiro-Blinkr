@@ -40,9 +40,7 @@ o quarto requisito, diz o seguinte:
 
 O que ele está pedindo aq é que a url tenha um tempo de vida predeterminado, e quando esse tempo passar, a url deixe de existir no banco. 
 
-E no ultimo requisito,
-
-Que é core, do desafio, e fala da rota de redirecionamento, então:
+E o ultimo requisito, que é core do desafio, fala da rota de redirecionamento, então:
 
 "Ao receber uma chamada para a URL encurtada `https://xxx.com/DXB6V`, você deve fazer o redirecionamento para a URL original salva no banco de dados. 
 
