@@ -80,9 +80,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1066.5203404203176,
-			"y": 825.2165764101495,
-			"lastActivityTimestamp": 1756895478472,
+			"x": -597.9505279147556,
+			"y": 27.66569750209817,
+			"lastActivityTimestamp": 1756895874498,
 			"meta": {}
 		},
 		{
@@ -539,10 +539,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:ZfOe9uRhqOhcGsg6wWchX",
-				"shape:XgygJSxlTCpLDco4cmkUY"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -946,8 +943,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 124.7662806734325,
-			"y": -484.5928886660089,
+			"x": 206.65534695200824,
+			"y": -392.82266327625524,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:RT5qLCa8OFEGb3jFH0ifv",
@@ -2525,21 +2522,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:dash": "draw",
-				"tldraw:fill": "none",
-				"tldraw:color": "black",
-				"tldraw:size": "m",
-				"tldraw:textAlign": "middle",
-				"tldraw:font": "draw",
-				"tldraw:arrowheadStart": "dot",
-				"tldraw:arrowheadEnd": "triangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -2574,7 +2561,7 @@
 			"meta": {},
 			"duplicateProps": null,
 			"id": "instance:instance",
-			"currentPageId": "page:RT5qLCa8OFEGb3jFH0ifv",
+			"currentPageId": "page:A9dmhKVMKwsnmW6RUWbif",
 			"typeName": "instance"
 		},
 		{
@@ -2992,8 +2979,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 765.8083346834298,
-			"y": -6.324595603036414,
+			"x": 865.9815948092869,
+			"y": 84.36756665805808,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:A9dmhKVMKwsnmW6RUWbif",
